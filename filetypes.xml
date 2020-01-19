@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="uploadResults,jsp" type="JSP" />
+      <mapping pattern="uploadResults.jsp" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
