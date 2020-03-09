@@ -6,6 +6,7 @@
       <mapping pattern="uploadResults.jsp" type="PLAIN_TEXT" />
       <mapping pattern="schema.sql" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="ignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
