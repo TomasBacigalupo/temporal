@@ -8,8 +8,6 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="ignore" type="PLAIN_TEXT" />
       <mapping pattern="graphics" type="Python" />
-      <removed_mapping ext="py" type="Python" />
-      <mapping ext="py" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
