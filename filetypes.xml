@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="uploadResults,jsp" type="JSP" />
       <mapping pattern="uploadResults" type="JSP" />
+      <mapping pattern="CardInscription" type="JSPX" />
       <mapping pattern="uploadResults.jsp" type="PLAIN_TEXT" />
       <mapping pattern="errores" type="PLAIN_TEXT" />
       <mapping pattern="schema.sql" type="PLAIN_TEXT" />
