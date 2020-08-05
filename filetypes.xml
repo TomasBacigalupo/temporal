@@ -8,6 +8,7 @@
       <mapping pattern="errores" type="PLAIN_TEXT" />
       <mapping pattern="schema.sql" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="LogInForm.js" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping pattern="graphics" type="Python" />
     </extensionMap>
