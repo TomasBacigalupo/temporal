@@ -2,4 +2,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
 </keymap>
