@@ -7,6 +7,7 @@
       <mapping pattern="uploadResults.jsp" type="PLAIN_TEXT" />
       <mapping pattern="LogInForm.js" type="PLAIN_TEXT" />
       <mapping pattern="errores" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="Notification.jsx" type="PLAIN_TEXT" />
       <mapping pattern="schema.sql" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
